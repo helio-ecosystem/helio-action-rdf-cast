@@ -8,7 +8,7 @@ Use the following coordinates for importing this action:
 
 ````json
 {
-    "source": "./components/helio-action-rdf-cast-0.1.0.jar",
+    "source": "https://github.com/helio-ecosystem/helio-action-rdf-cast/releases/download/v0.1.0/helio-action-rdf-cast-0.1.0.jar",
     "clazz": "helio.action.rdf.cast.RdfCast",
     "type": "ACTION"
  }
