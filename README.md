@@ -17,6 +17,5 @@ Use the following coordinates for importing this action:
 ### Configuration
 
 This action must be provided with a JSON as configuration, specifying the following:
- - 'query' must have as value a valid SPARQL query
  - 'data-format' must specify the RDF serialisation of the data. Possible values are turtle, ttl, json-ld, json-ld-11, rdf/xml, n-triples, nt, n3.
  - 'output-format' must specify the output RDF serialisation in which the data will be translated. Possible values are turtle, ttl, json-ld, json-ld-11, rdf/xml, n-triples, nt, n3.
